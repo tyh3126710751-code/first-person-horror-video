@@ -1,0 +1,4 @@
+interface:
+  display_name: "第一人称恐怖视频"
+  short_description: "从剧本到参考图和全片分镜，配合手动剧创制作与反馈修订"
+  default_prompt: "Use $first-person-horror-video to turn my idea or script into a first-person horror video production package for my manual work in 火山剧创."
